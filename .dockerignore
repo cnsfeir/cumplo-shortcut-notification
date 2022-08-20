@@ -1,0 +1,6 @@
+.github
+.venv
+.vscode
+__pycache__
+.pre-commit-config.yaml
+Makefile
